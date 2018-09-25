@@ -12,7 +12,7 @@ System.out.println("What is your weight?");
 weight=input.nextInt();
 System.out.println("What is your age");
 age=input.nextInt();
-System.out.println("You are " + weight + " pounds and" + age + " years old");
+System.out.println("You are " + weight + " pounds and " + age + " years old");
 input.close();
 	}
 
