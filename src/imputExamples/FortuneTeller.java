@@ -18,7 +18,7 @@ luckynumber=input.nextInt();
 System.out.println("In the future");
 System.out.println("I See....");
 System.out.println( luckynumber + " years from now.... ");
-System.out.println("You will be resident number" + age + weight + " at the old folks home");
+System.out.println("You will be resident number " + age + weight + " at the old folks home.");
 input.close();
 
 	}
