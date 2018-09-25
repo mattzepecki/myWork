@@ -9,6 +9,7 @@ Scanner imput=new Scanner(System.in);
 System.out.println("How many bones have you broken in your body?");
 bones=imput.nextInt();
 System.out.println("Broken bones=" + bones);
+input.close();
 	}
 
 }
