@@ -9,7 +9,7 @@ int digit1=-999;
 int digit2=-999;
 int digit3=-999;
 Scanner input=new Scanner(System.in);
-System.out.println("What is your first digit?");
+System.out.println("What is your first digit?");  
 digit1=input.nextInt();
 System.out.println("What is your second digit?");
 digit2=input.nextInt();
