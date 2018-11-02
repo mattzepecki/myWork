@@ -3,7 +3,7 @@ package objectOrientation;
 import java.util.Scanner;
 public class House {
 	
-	
+	public static void main(String[] args)
 	{
 	
 
@@ -22,6 +22,7 @@ System.out.println("How much cubic sand can you move each hour");
 cubicSand=input.nextDouble();
 
 double value=length*width*depth/cubicSand;
+System.out.println("It will take " + value + " hours to fill the sand box");
 input.close();
 
 }
